@@ -1,0 +1,457 @@
+﻿descendant_concept_id,ancestor_concept_id,concept_name,concept_code,domain_id
+605236,80180,Stickler syndrome type 2,1010664005,Condition
+605238,80180,Stickler syndrome type 4,1010666007,Condition
+605240,80180,Stickler syndrome type 1,1010668008,Condition
+4009091,80180,Juvenile osteochondrosis of acetabulum,10196009,Condition
+602643,80180,Gonarthrosis of left knee due to and following trauma,1055297002,Condition
+602644,80180,Gonarthrosis of right knee due to and following trauma,1055298007,Condition
+42539281,80180,Ossification of anterior longitudinal ligament of spine,10624571000119100,Condition
+1244122,80180,Secondary osteoarthritis of hip,1071171000119100,Condition
+42534844,80180,Chondrocalcinosis of right shoulder,1074061000119100,Condition
+42539212,80180,Chondrocalcinosis of left shoulder,1074071000119100,Condition
+42534845,80180,Chondrocalcinosis of right elbow,1074081000119100,Condition
+42534846,80180,Chondrocalcinosis of left elbow,1074091000119100,Condition
+37108595,80180,Chondrocalcinosis of joint of right wrist,1074101000119100,Condition
+37108596,80180,Chondrocalcinosis of joint of left wrist,1074111000119100,Condition
+42534847,80180,Chondrocalcinosis of right hand,1074121000119100,Condition
+42534848,80180,Chondrocalcinosis of left hand,1074131000119100,Condition
+42534849,80180,Chondrocalcinosis of right hip,1074141000119100,Condition
+42534850,80180,Chondrocalcinosis of left hip,1074151000119100,Condition
+37108597,80180,Chondrocalcinosis of joint of right knee,1074161000119100,Condition
+37108598,80180,Chondrocalcinosis of joint of left knee,1074171000119100,Condition
+42539213,80180,Chondrocalcinosis of right ankle,1074181000119100,Condition
+35609013,80180,Chondrocalcinosis of right foot,1074191000119100,Condition
+42534851,80180,Chondrocalcinosis of left ankle,1074201000119100,Condition
+35609014,80180,Chondrocalcinosis of left foot,1074211000119100,Condition
+1244139,80180,Secondary osteoarthritis of left hip,1074321000119100,Condition
+1244140,80180,Secondary osteoarthritis of right hip,1074331000119100,Condition
+1244141,80180,Secondary osteoarthritis of bilateral knees,1074341000119100,Condition
+1244142,80180,Secondary osteoarthritis of left knee,1074351000119100,Condition
+1244143,80180,Secondary osteoarthritis of right knee,1074361000119100,Condition
+759878,80180,Osteoarthritis of right acromioclavicular joint,1074371000119100,Condition
+759879,80180,Osteoarthritis of right glenohumeral joint,1074381000119100,Condition
+37108600,80180,Osteoarthritis of right sternoclavicular joint,1074391000119100,Condition
+765256,80180,Osteoarthritis of bilateral acromioclavicular joints,1074401000119100,Condition
+37208265,80180,Bilateral osteoarthritis of sternoclavicular joints,1074411000119100,Condition
+759880,80180,Osteoarthritis of bilateral glenohumeral joints,1074421000119100,Condition
+759881,80180,Osteoarthritis of left acromioclavicular joint,1074431000119100,Condition
+759882,80180,Osteoarthritis of left glenohumeral joint,1074441000119100,Condition
+42534855,80180,Osteoarthritis of left sternoclavicular joint,1074451000119100,Condition
+36712696,80180,Osteoarthritis of right foot,1074461000119100,Condition
+42534856,80180,Osteoarthritis of midtarsal joint of right foot,1074471000119100,Condition
+37117136,80180,Osteoarthritis of first metatarsophalangeal joint of right foot,1074481000119100,Condition
+36712697,80180,Osteoarthritis of left foot,1074491000119100,Condition
+42534857,80180,Osteoarthritis of midtarsal joint of left foot,1074501000119100,Condition
+37117137,80180,Osteoarthritis of first metatarsophalangeal joint of left foot,1074511000119100,Condition
+37108601,80180,Osteoarthritis of right foot due to trauma,1074521000119100,Condition
+42534859,80180,Osteoarthritis of left foot due to trauma,1074531000119100,Condition
+1244144,80180,Secondary osteoarthritis of right foot,1074541000119100,Condition
+1244145,80180,Secondary osteoarthritis of left foot,1074551000119100,Condition
+42534860,80180,Osteoarthritis of right sacroiliac joint,1074561000119100,Condition
+42539214,80180,Osteoarthritis of left sacroiliac joint,1074571000119100,Condition
+36685026,80180,Chronic tophaceous gout of right foot,1075001000119100,Condition
+36685027,80180,Chronic tophaceous gout of left foot,1075021000119100,Condition
+37399301,80180,Advanced collapse of scapholunate joint due to osteoarthritis,107881000119100,Condition
+79119,80180,Thoracic spondylosis with myelopathy,10948005,Condition
+4003507,80180,Degenerative arthritis of temporomandibular joint,109668000,Condition
+4002683,80180,Acute calcific periarthritis,11023001,Condition
+4009506,80180,Periarthritis of wrist,111242007,Condition
+36684452,80180,Bilateral osteoarthritis of feet,112961000119103,Condition
+36684453,80180,Bilateral osteoarthritis of ankles,112971000119109,Condition
+36684454,80180,Bilateral osteoarthritis of knees,112981000119107,Condition
+36684455,80180,Osteoarthritis of bilateral hip joints,112991000119105,Condition
+36684456,80180,Bilateral osteoarthritis of finger of hands,113001000119106,Condition
+36684457,80180,Osteoarthritis of joint of bilateral hands,113011000119109,Condition
+36684458,80180,Bilateral wrist osteoarthritis,113021000119102,Condition
+760570,80180,Osteoarthritis of bilateral elbows,113031000119104,Condition
+36684459,80180,Bilateral shoulder osteoarthritis,113041000119108,Condition
+606687,80180,Hydroxyapatite deposition disease of elbow joint,1148444001,Condition
+606962,80180,Gouty arthropathy due to double heterozygous sickling disorder,1148911004,Condition
+606968,80180,Gouty arthropathy due to sickle-cell trait,1148918005,Condition
+607177,80180,Hydroxyapatite deposition disease of joint of foot,1149278003,Condition
+607179,80180,Hydroxyapatite deposition disease of joint of ankle,1149280009,Condition
+603005,80180,Polyarticular acute primary gout,1153331004,Condition
+603006,80180,Polyarticular chronic gout caused by lead,1153332006,Condition
+603008,80180,Polyarticular acute gout caused by lead,1153334007,Condition
+607404,80180,Monoarticular chronic gout caused by lead,1153376004,Condition
+607406,80180,Monoarticular acute gout caused by lead,1153378003,Condition
+37160375,80180,Ossification of ligamentum flavum,1162302007,Condition
+37160376,80180,Seronegative erosive rheumatoid arthritis,1162303002,Condition
+37160377,80180,Oligoarticular osteoarthritis,1162304008,Condition
+37160390,80180,Rheumatoid factor and anti-citrullinated protein antibody positive erosive rheumatoid arthritis,1162319009,Condition
+37160399,80180,Anti-citrullinated protein antibody positive erosive rheumatoid arthritis,1162336001,Condition
+37160403,80180,Ossification of posterior longitudinal ligament and ligamentum flavum,1162342002,Condition
+37160417,80180,Felty syndrome with seronegative erosive rheumatoid arthritis,1162362005,Condition
+37160490,80180,Hydroxyapatite deposition disease of hip joint,1162523002,Condition
+37160491,80180,Hydroxyapatite deposition disease of knee joint,1162525009,Condition
+37160590,80180,Familial calcium pyrophosphate dihydrate crystal deposition disease,1162808000,Condition
+37018671,80180,Chondrocalcinosis of hand due to disorder of calcium metabolism,120401000119101,Condition
+760900,80180,Osteoarthritis of finger joint of left hand,12241631000119100,Condition
+760901,80180,Osteoarthritis of finger joint of right hand,12241671000119100,Condition
+37016155,80180,Chondrocalcinosis of hip joint due to disorder of calcium metabolism,122691000119106,Condition
+37164084,80180,Spondyloepiphyseal dysplasia Stanescu type,1228860003,Condition
+37117087,80180,Osteoarthritis of right patellofemoral joint,12367361000119100,Condition
+37108770,80180,Osteoarthritis of left patellofemoral joint,12367411000119100,Condition
+37108771,80180,Bilateral patellofemoral joint osteoarthritis,12367461000119100,Condition
+4048684,80180,Lumbosacral spondylosis,123798002,Condition
+37168894,80180,Secondary osteoarthritis of knee joint,1287058006,Condition
+1244488,80180,Chondromalacia of joint of hand,1287846005,Condition
+1244521,80180,Secondary osteoarthritis of joint of wrist,1288014009,Condition
+1244522,80180,Secondary osteoarthritis of joint of hand,1288016006,Condition
+1244524,80180,Secondary osteoarthritis of joint of foot,1288018007,Condition
+1244606,80180,Secondary osteoarthritis of glenohumeral joint,1290147003,Condition
+1245284,80180,Degenerative disorder of articular cartilage of knee,1297313005,Condition
+37018679,80180,Chondrocalcinosis of elbow due to disorder of calcium metabolism,137791000119100,Condition
+761084,80180,Degenerative joint disease of thumb,14380001000004100,Condition
+761176,80180,Chondromalacia of bilateral patellas,15636211000119100,Condition
+37108883,80180,Degenerative rupture of medial meniscus of left knee,15637471000119100,Condition
+37108884,80180,Degenerative rupture of medial meniscus of right knee,15637511000119100,Condition
+42535061,80180,Bilateral degenerative rupture of medial meniscus of knee,15637551000119100,Condition
+37108902,80180,Osteoarthritis of right temporomandibular joint,15686041000119100,Condition
+37209320,80180,Bilateral osteoarthritis of temporomandibular joints,15686081000119100,Condition
+37108903,80180,Osteoarthritis of left temporomandibular joint,15686121000119100,Condition
+36687023,80180,Bilateral chondrocalcinosis of hands,15705201000119100,Condition
+36687024,80180,Bilateral chondrocalcinosis of shoulders,15705241000119100,Condition
+761407,80180,Chondrocalcinosis of bilateral knee joints,15705281000119100,Condition
+1245570,80180,Chondrocalcinosis of joint of bilateral elbows,15705321000119100,Condition
+36687025,80180,Chondrocalcinosis of bilateral hips,15705361000119100,Condition
+761485,80180,Chondromalacia of left knee,15720481000119100,Condition
+37108918,80180,Osteoarthritis of left subtalar joint,15722441000119100,Condition
+1076569,80180,Bilateral subtalar osteoarthritis,15722481000119100,Condition
+37108919,80180,Osteoarthritis of right subtalar joint,15722521000119100,Condition
+37108920,80180,Bilateral osteoarthritis of first metatarsophalangeal joint of feet,15722561000119100,Condition
+42535069,80180,Bilateral osteoarthritis of sacroiliac joints,15722961000119100,Condition
+1245608,80180,Secondary osteoarthritis of bilateral ankles,15723001000119100,Condition
+1245609,80180,Secondary osteoarthritis of bilateral feet,15723041000119100,Condition
+1245610,80180,Secondary osteoarthritis of bilateral hands,15723081000119100,Condition
+1245611,80180,Secondary osteoarthritis of bilateral hips,15723121000119100,Condition
+1245612,80180,Secondary osteoarthritis of bilateral elbows,15723161000119100,Condition
+1245613,80180,Secondary osteoarthritis of bilateral glenohumeral joints,15723201000119100,Condition
+1245614,80180,Secondary osteoarthritis of bilateral wrists,15723241000119100,Condition
+36717013,80180,Chondromalacia of right patella,15749161000119100,Condition
+42535119,80180,Bilateral gouty tophus of elbows,16005991000119100,Condition
+42535124,80180,Bilateral chondrocalcinosis of wrists,16008271000119100,Condition
+42535128,80180,Bilateral osteoarthritis of feet due to trauma,16010951000119100,Condition
+35615108,80180,Bilateral osteoarthritis of midtarsal joints of feet,16015391000119100,Condition
+36687180,80180,Chondrocalcinosis of bilateral feet,16016151000119100,Condition
+42535135,80180,Bilateral chondrocalcinosis of ankles,16016191000119100,Condition
+35615111,80180,Bilateral degenerative rupture of lateral meniscus of knees,16016511000119100,Condition
+37108998,80180,Degenerative rupture of lateral meniscus of right knee,16016551000119100,Condition
+37108999,80180,Degenerative rupture of lateral meniscus of left knee,16016631000119100,Condition
+37209473,80180,Chondromalacia of joint of left elbow,16039071000119100,Condition
+37209474,80180,Chondromalacia of joint of right elbow,16039111000119100,Condition
+37209475,80180,Chondromalacia of joint of left wrist,16039151000119100,Condition
+36687192,80180,Chondromalacia of left shoulder,16039191000119100,Condition
+37209476,80180,Chondromalacia of joint of right ankle,16039231000119100,Condition
+1245819,80180,Chondromalacia of right hand,16039271000119100,Condition
+37209477,80180,Chondromalacia of joint of left ankle,16039311000119100,Condition
+1245820,80180,Bilateral chondromalacia of hands,16039351000119100,Condition
+36687193,80180,Chondromalacia of right shoulder,16039391000119100,Condition
+42535174,80180,Chondromalacia of left hip,16039431000119100,Condition
+37169513,80180,Chondromalacia of left foot,16039471000119100,Condition
+37169514,80180,Chondromalacia of right foot,16039511000119100,Condition
+1245821,80180,Chondromalacia of left hand,16039551000119100,Condition
+37169515,80180,Bilateral chondromalacia of hips,16039591000119100,Condition
+42535175,80180,Chondromalacia of right hip,16039631000119100,Condition
+37169516,80180,Bilateral chondromalacia of shoulders,16039671000119100,Condition
+37209478,80180,Chondromalacia of joint of right wrist,16039791000119100,Condition
+42535176,80180,Bilateral chondromalacia of ankles,16039831000119100,Condition
+35615129,80180,Bilateral chronic tophaceous gout of elbows,16040031000119100,Condition
+35615130,80180,Bilateral chronic tophaceous gout of hands,16040071000119100,Condition
+35615133,80180,Hydroxyapatite deposition disease of left shoulder,16046631000119100,Condition
+35615134,80180,Hydroxyapatite deposition disease of right shoulder,16046951000119100,Condition
+42535205,80180,Tophus of left elbow co-occurrent and due to gout,16076051000119100,Condition
+42539209,80180,Gouty tophus of right elbow,16076131000119100,Condition
+1245868,80180,Secondary osteoarthritis of left ankle,16583201000119100,Condition
+1245869,80180,Secondary osteoarthritis of right ankle,16583241000119100,Condition
+37109099,80180,Osteoarthritis of left ankle due to trauma,16583281000119100,Condition
+37109100,80180,Osteoarthritis of right ankle due to trauma,16583321000119100,Condition
+37109101,80180,Osteoarthritis of joint of right ankle,16583361000119100,Condition
+80484,80180,Crystal arthropathy,18834007,Condition
+4096347,80180,Gouty arthropathy,190828008,Condition
+4101425,80180,Gouty tophus of hand,190842000,Condition
+4105009,80180,Nerve root and plexus compressions in spondylosis,193120004,Condition
+72709,80180,Crystal arthropathy of multiple sites,20075001,Condition
+437629,80180,Chondrocalcinosis due to dicalcium phosphate crystals,201625003,Condition
+77632,80180,"Chondrocalcinosis due to dicalcium phosphate crystals, of the shoulder region",201627006,Condition
+80797,80180,"Chondrocalcinosis due to dicalcium phosphate crystals, of the hand",201630004,Condition
+433281,80180,"Chondrocalcinosis due to dicalcium phosphate crystals, of the pelvic region and thigh",201631000,Condition
+77633,80180,"Chondrocalcinosis due to dicalcium phosphate crystals, of the ankle and foot",201633002,Condition
+440170,80180,"Chondrocalcinosis due to dicalcium phosphate crystals, of multiple sites",201634008,Condition
+439901,80180,Chondrocalcinosis due to pyrophosphate crystals,201637001,Condition
+76499,80180,"Chondrocalcinosis due to pyrophosphate crystals, of the shoulder region",201639003,Condition
+79107,80180,"Chondrocalcinosis-pyrophosphate crystals, of the hand",201642009,Condition
+433844,80180,"Chondrocalcinosis due to pyrophosphate crystals, of the pelvic region and thigh",201643004,Condition
+77353,80180,"Chondrocalcinosis due to pyrophosphate crystals, of the ankle and foot",201645006,Condition
+432394,80180,"Chondrocalcinosis due to pyrophosphate crystals, of multiple sites",201646007,Condition
+75617,80180,Degenerative joint disease involving multiple joints,201819000,Condition
+4116451,80180,Erosive osteoarthrosis,201826000,Condition
+72993,80180,"Localized, primary osteoarthritis",201829007,Condition
+73840,80180,"Localized, primary osteoarthritis of the shoulder region",201831003,Condition
+75036,80180,"Localized, primary osteoarthritis of the hand",201834006,Condition
+4115379,80180,"Localized, primary osteoarthritis of the pelvic region and thigh",201835007,Condition
+78505,80180,"Localized, primary osteoarthritis of the ankle and/or foot",201837004,Condition
+80802,80180,"Localized, secondary osteoarthritis",201847001,Condition
+77631,80180,"Localized, secondary osteoarthritis of the shoulder region",201849003,Condition
+79904,80180,"Localized, secondary osteoarthritis of the hand",201852006,Condition
+80183,80180,"Localized, secondary osteoarthritis of the ankle and/or foot",201855008,Condition
+4116769,80180,"Post-traumatic coxarthrosis, bilateral",201857000,Condition
+4115521,80180,"Post-traumatic gonarthrosis, bilateral",201858005,Condition
+439678,80180,Kashin-Beck disease of the shoulder region,201921009,Condition
+77073,80180,Kashin-Beck disease of the hand,201924001,Condition
+73554,80180,Kashin-Beck disease of the pelvic region and thigh,201925000,Condition
+75037,80180,Kashin-Beck disease of the ankle and/or foot,201927008,Condition
+78506,80180,Kashin-Beck disease of multiple sites,201929006,Condition
+4068604,80180,Single-level cervical spondylosis without myelopathy,202657000,Condition
+4068605,80180,Two-level cervical spondylosis without myelopathy,202658005,Condition
+4067527,80180,Multiple-level cervical spondylosis without myelopathy,202659002,Condition
+4068609,80180,Single-level thoracic spondylosis with myelopathy,202670009,Condition
+4068610,80180,Two-level thoracic spondylosis with myelopathy,202671008,Condition
+4068611,80180,Multiple-level thoracic spondylosis with myelopathy,202672001,Condition
+4066601,80180,Single-level lumbosacral spondylosis without myelopathy,202674000,Condition
+4066602,80180,Two-level lumbosacral spondylosis without myelopathy,202675004,Condition
+4068381,80180,Multiple-level lumbosacral spondylosis without myelopathy,202676003,Condition
+4066603,80180,Lumbosacral spondylosis with myelopathy,202677007,Condition
+4066604,80180,Single-level lumbosacral spondylosis with myelopathy,202678002,Condition
+4068382,80180,Two-level lumbosacral spondylosis with myelopathy,202679005,Condition
+4068473,80180,Multiple-level lumbosacral spondylosis with myelopathy,202680008,Condition
+4066606,80180,Cervical spondylosis with vascular compression,202687006,Condition
+4068616,80180,Thoracic spondylosis with radiculopathy,202688001,Condition
+4066607,80180,Single-level thoracic spondylosis with radiculopathy,202689009,Condition
+4068474,80180,Two-level thoracic spondylosis with radiculopathy,202690000,Condition
+4068475,80180,Multiple-level thoracic spondylosis with radiculopathy,202692008,Condition
+4068617,80180,Lumbosacral spondylosis with radiculopathy,202693003,Condition
+4068476,80180,Single-level lumbosacral spondylosis with radiculopathy,202694009,Condition
+4068477,80180,Two-level lumbosacral spondylosis with radiculopathy,202695005,Condition
+4067531,80180,Multiple-level lumbosacral spondylosis with radiculopathy,202696006,Condition
+4069207,80180,Calcification of cervical disc,202747007,Condition
+4068629,80180,Calcification of thoracic disc,202751009,Condition
+4068712,80180,Calcification of lumbar disc,202755000,Condition
+443116,80180,Cervical posterior longitudinal ligament ossification,202771000,Condition
+78227,80180,Degenerative joint disease of hand,22193007,Condition
+4025957,80180,Degenerative polyarthritis,225655006,Condition
+4049245,80180,Relapsing polychondritis of larynx,232439007,Condition
+4029605,80180,Periarticular calcification,237898004,Condition
+4083686,80180,Apatite-associated destructive arthritis,239828000,Condition
+4035433,80180,Calcium pyrophosphate deposition disease,239832006,Condition
+4035434,80180,Chondrocalcinosis due to pyrophosphate crystals of the knee,239833001,Condition
+4035748,80180,Pyrophosphate tophus,239837000,Condition
+4083688,80180,Monosodium urate arthritis and periarthritis,239842008,Condition
+4083689,80180,Intra-articular steroid-induced arthritis and periarthritis,239849004,Condition
+4035439,80180,Idiopathic osteoarthritis,239862000,Condition
+4083694,80180,Osteoarthritis of spinal facet joint,239863005,Condition
+4035440,80180,Osteoarthritis of acromioclavicular joint,239865003,Condition
+4083695,80180,Osteoarthritis of elbow,239866002,Condition
+4035441,80180,Osteoarthritis of wrist,239867006,Condition
+4343918,80180,Osteoarthritis of finger joint,239868001,Condition
+4346972,80180,Osteoarthritis of distal interphalangeal joint,239869009,Condition
+4346973,80180,Osteoarthritis of proximal interphalangeal joint,239870005,Condition
+4035756,80180,Osteoarthritis of metacarpophalangeal joint of finger,239871009,Condition
+4079749,80180,Osteoarthritis of hip,239872002,Condition
+4079750,80180,Osteoarthritis of knee,239873007,Condition
+4083696,80180,Osteoarthritis of ankle,239874001,Condition
+4083698,80180,Osteoarthritis of subtalar joint,239876004,Condition
+4035442,80180,Osteoarthritis of first metatarsophalangeal joint,239877008,Condition
+4343919,80180,Osteoarthritis of toe joint,239878003,Condition
+4346975,80180,Lumbar spondylosis,239880009,Condition
+4344156,80180,Otto's pelvis,239881008,Condition
+4343920,80180,Endemic osteoarthritis,239883006,Condition
+4343921,80180,Malemud disease,239884000,Condition
+4344390,80180,Intervertebral disk calcification,240211000,Condition
+74722,80180,Secondary localized osteoarthrosis of pelvic region,25343008,Condition
+4110738,80180,Osteoarthritis deformans,254779008,Condition
+76500,80180,Crystal arthropathy of hand,26241001,Condition
+443769,80180,Degeneration of lumbar intervertebral disc,26538006,Condition
+4144996,80180,Generalized osteoarthritis of the hand,267889007,Condition
+4150309,80180,"Localized, secondary osteoarthritis of the pelvic region and thigh",267890003,Condition
+141941,80180,Cervical spondylosis without myelopathy,267970006,Condition
+4147779,80180,Osteoarthritis of multiple joints,268054009,Condition
+72401,80180,Kashin-Bek disease,270505009,Condition
+4173669,80180,Osteoarthritis of metacarpophalangeal joint,275324008,Condition
+4103372,80180,Primary localized osteoarthrosis of multiple sites,28736004,Condition
+37395586,80180,Osteoarthritis of hip co-occurrent and due to dysplasia,303001000119101,Condition
+36713091,80180,Bilateral osteoarthritis of first carpometacarpal joint,303041000119104,Condition
+42535491,80180,Chondromalacia of left patella,303861000119106,Condition
+46270416,80180,Chronic tophaceous gout of ankle due to renal impairment,303881000119102,Condition
+46270418,80180,Chronic tophaceous gout of elbow due to renal impairment,303901000119100,Condition
+46270420,80180,Chronic tophaceous gout of hand due to renal impairment,303921000119109,Condition
+46270422,80180,Chronic tophaceous gout of hip due to renal impairment,303941000119103,Condition
+46270424,80180,Chronic tophaceous gout of knee due to renal impairment,303961000119104,Condition
+46270425,80180,Chronic tophaceous gout of multiple sites due to renal impairment,304121000119108,Condition
+762219,80180,Chronic tophaceous gout of right wrist due to renal impairment,304261000119109,Condition
+46273507,80180,Chronic tophaceous gout of shoulder due to renal impairment,304281000119100,Condition
+46273508,80180,Chronic tophaceous gout of vertebra due to renal impairment,304301000119101,Condition
+46270429,80180,Chronic tophaceous gout due to renal impairment,304321000119105,Condition
+46270431,80180,Chronic tophaceous gout of wrist due to renal impairment,304341000119104,Condition
+46270435,80180,Chronic tophaceous gout of ankle and/or foot caused by drug,306131000119100,Condition
+46270436,80180,Chronic tophaceous gout of elbow caused by drug,306151000119106,Condition
+46270438,80180,Chronic tophaceous gout of hand caused by drug,306171000119102,Condition
+46270440,80180,Chronic tophaceous gout of hip caused by drug,306191000119101,Condition
+46270442,80180,Chronic tophaceous gout of knee caused by drug,306211000119100,Condition
+46270444,80180,Chronic tophaceous gout of multiple sites caused by drug,306371000119100,Condition
+46270448,80180,Chronic tophaceous gout of vertebra caused by drug,306551000119102,Condition
+46270450,80180,Chronic tophaceous gout caused by drug,306571000119106,Condition
+46270452,80180,Chronic tophaceous gout of wrist caused by drug,306591000119107,Condition
+37207779,80180,Familial calcium pyrophosphate deposition of left knee,307371000119102,Condition
+37207780,80180,Familial calcium pyrophosphate deposition of left wrist,307391000119101,Condition
+37207781,80180,Familial calcium pyrophosphate deposition of right knee,307451000119100,Condition
+37207782,80180,Familial calcium pyrophosphate deposition of right wrist,307471000119109,Condition
+4147418,80180,Seropositive erosive rheumatoid arthritis,308143008,Condition
+4202790,80180,Osteoarthritis of foot joint,309246000,Condition
+4197476,80180,"Localized, primary osteoarthritis of the wrist",313257005,Condition
+4209089,80180,"Localized, primary osteoarthritis of toe",313258000,Condition
+4197477,80180,"Localized, primary osteoarthritis of elbow",313259008,Condition
+4209095,80180,Degeneration of lateral meniscus,313294001,Condition
+36717301,80180,Osteoarthritis of joint of left ankle,318641000119101,Condition
+42535499,80180,Osteoarthritis of joint of left elbow,318651000119104,Condition
+36713098,80180,Osteoarthritis of joint of left hand,318661000119102,Condition
+36713099,80180,Osteoarthritis of joint of left shoulder region,318671000119108,Condition
+36713100,80180,Osteoarthritis of joint of left wrist,318681000119106,Condition
+36713101,80180,Osteoarthritis of joint of right ankle and/or foot,318691000119109,Condition
+36717302,80180,Osteoarthritis of joint of right elbow,318701000119109,Condition
+36713102,80180,Osteoarthritis of joint of right hand,318711000119107,Condition
+36713103,80180,Osteoarthritis of joint of right shoulder region,318721000119100,Condition
+36713104,80180,Osteoarthritis of joint of right wrist,318731000119102,Condition
+1246189,80180,Secondary osteoarthritis of elbow,320311000119102,Condition
+1246190,80180,Secondary osteoarthritis of left elbow,320331000119107,Condition
+1246191,80180,Secondary osteoarthritis of left hand,320341000119103,Condition
+1246192,80180,Secondary osteoarthritis of left glenohumeral joint,320351000119101,Condition
+1246193,80180,Secondary osteoarthritis of left wrist,320361000119104,Condition
+1246194,80180,Secondary osteoarthritis of right elbow,320381000119108,Condition
+1246195,80180,Secondary osteoarthritis of right hand,320391000119106,Condition
+1246196,80180,Secondary osteoarthritis of right glenohumeral joint,320401000119108,Condition
+1246197,80180,Secondary osteoarthritis of right wrist,320411000119106,Condition
+36684585,80180,Spondylosis of cervicothoracic spine,321311000119108,Condition
+36684586,80180,Spondylosis of thoracolumbar spine,321341000119107,Condition
+37310643,80180,Osteoarthritis of left hip joint due to dysplasia,323161000119107,Condition
+37310642,80180,Osteoarthritis of right hip joint due to dysplasia,323171000119101,Condition
+762329,80180,Osteoarthritis of first carpometacarpal joint of left hand,323251000119103,Condition
+762330,80180,Osteoarthritis of first carpometacarpal joint of right hand,323261000119101,Condition
+36713109,80180,Osteoarthritis of left hip joint,323291000119108,Condition
+36717036,80180,Osteoarthritis of left knee joint,323301000119109,Condition
+36713110,80180,Osteoarthritis of right hip joint,323311000119107,Condition
+36713111,80180,Osteoarthritis of right knee joint,323321000119100,Condition
+76194,80180,Osteoarthrosis involving multiple sites but not designated as generalized,33262002,Condition
+77639,80180,Diffuse cervicobrachial syndrome,33420007,Condition
+4143463,80180,Localized osteoarthrosis,33952002,Condition
+74445,80180,Crystal arthropathy of shoulder region,34427002,Condition
+81378,80180,Chondromalacia of patella,36071006,Condition
+4274404,80180,Calcification of joint,36540006,Condition
+4160051,80180,Osteoarthritis of glenohumeral joint,373623009,Condition
+4242103,80180,Osteoarthrosis of the carpometacarpal joint of the thumb,37895003,Condition
+4308802,80180,Cervical spondylosis,387800004,Condition
+4302686,80180,Thoracic spondylosis,387802007,Condition
+4192894,80180,Exacerbation of osteoarthritis,394991004,Condition
+80180,80180,Osteoarthritis,396275006,Condition
+4220033,80180,Ochronotic arthritis,39838007,Condition
+4215655,80180,Tibial plateau chondromalacia,4168008,Condition
+762486,80180,Localized osteoarthritis of wrist,4211000119108,Condition
+1246559,80180,Degenerative disorder of articular cartilage of left knee,42341000087107,Condition
+1246560,80180,Degenerative disorder of articular cartilage of right knee,42351000087105,Condition
+77953,80180,Crystal arthropathy of hip,428027008,Condition
+73550,80180,Crystal arthropathy of elbow,428768008,Condition
+4181453,80180,Kashin-Beck disease of spine,428857003,Condition
+435038,80180,Crystal arthropathy of wrist,429419004,Condition
+74444,80180,Crystal arthropathy of knee,429420005,Condition
+4181963,80180,Degeneration of internal semilunar cartilage,42944009,Condition
+4183031,80180,Degeneration of cervicothoracic intervertebral disc,43132002,Condition
+4201372,80180,Acute degenerative joint disease of shoulder region,432733005,Condition
+4185423,80180,Chronic osteoarthritis,43829003,Condition
+40485405,80180,Chondrocalcinosis of joint of hand,442884002,Condition
+40479241,80180,Chondrocalcinosis of wrist joint,442925003,Condition
+40479244,80180,Chondrocalcinosis of shoulder region,442928001,Condition
+40479259,80180,Chondrocalcinosis of joint of ankle AND/OR foot,442941002,Condition
+40479260,80180,Chondrocalcinosis of knee joint,442942009,Condition
+40479661,80180,Chondrocalcinosis of elbow joint,443001001,Condition
+40479662,80180,Chondrocalcinosis of hip joint,443002008,Condition
+40481943,80180,Secondary osteoarthritis,443524000,Condition
+40483793,80180,Crystal arthropathy of pelvis,445477009,Condition
+40483794,80180,Degenerative joint disease of pelvis,445478004,Condition
+40483814,80180,Chondrocalcinosis of joint of pelvis,445496008,Condition
+40487917,80180,Heterotopic ossification of joint,446496001,Condition
+42872530,80180,Patellofemoral osteoarthritis,450521003,Condition
+80813,80180,Lumbosacral spondylosis without myelopathy,48210000,Condition
+4175623,80180,Periarthritis,50921008,Condition
+4178758,80180,Miner's knee,52334005,Condition
+4200420,80180,Spinal arthritis deformans,53332000,Condition
+4264472,80180,Pellegrini-Stieda syndrome,60644007,Condition
+74132,80180,Degeneration of lumbosacral intervertebral disc,60937000,Condition
+438531,80180,Chondromalacia,63198006,Condition
+72405,80180,Degenerative joint disease of shoulder region,67315001,Condition
+198520,80180,Lumbar spondylosis with myelopathy,67437007,Condition
+442775,80180,Degeneration of thoracic intervertebral disc,68675004,Condition
+138519,80180,Spondylosis without myelopathy,68859000,Condition
+314131,80180,Degeneration of cervical intervertebral disc,69195002,Condition
+44783204,80180,Post infectious osteoarthritis,699261008,Condition
+44783205,80180,Post traumatic osteoarthritis,699262001,Condition
+44783555,80180,Calcified stylohyoid ligament,699655001,Condition
+44783938,80180,Apatite-associated destructive arthritis of shoulder,699942000,Condition
+45763782,80180,Primary osteoarthritis of ankle,700293006,Condition
+45763783,80180,Secondary osteoarthritis of ankle,700294000,Condition
+45763784,80180,Osteoarthritis of ankle secondary to trauma,700295004,Condition
+45763792,80180,Primary calcaneocuboid osteoarthritis,700304006,Condition
+45763793,80180,Osteoarthritis of calcaneocuboid joint,700305007,Condition
+45763794,80180,Secondary calcaneocuboid osteoarthritis,700307004,Condition
+45763799,80180,Calcaneocuboid osteoarthritis secondary to trauma,700312003,Condition
+45763800,80180,Primary subtalar osteoarthritis,700313008,Condition
+45763801,80180,Secondary osteoarthritis of subtalar joint,700314002,Condition
+45773205,80180,Osteoarthritis of subtalar joint secondary to trauma,700315001,Condition
+45763802,80180,Subtalar osteoarthritis secondary to inflammatory arthritis,700316000,Condition
+45763803,80180,Calcaneocuboid osteoarthritis secondary to inflammatory arthritis,700317009,Condition
+45763804,80180,Osteoarthritis of ankle secondary to inflammatory arthritis,700318004,Condition
+45763809,80180,Osteoarthritis of talonavicular joint,700324005,Condition
+45763810,80180,Primary talonavicular osteoarthritis,700325006,Condition
+45773206,80180,Secondary talonavicular osteoarthritis,700326007,Condition
+45763812,80180,Talonavicular osteoarthritis secondary to trauma,700328008,Condition
+45763815,80180,Talonavicular osteoarthritis secondary to inflammatory arthritis,700331009,Condition
+45763816,80180,Secondary osteoarthritis of first metatarsophalangeal joint,700332002,Condition
+45763817,80180,Primary osteoarthritis of first metatarsophalangeal joint,700333007,Condition
+45773207,80180,Osteoarthritis of first metatarsophalangeal joint secondary to trauma,700335000,Condition
+45763819,80180,Osteoarthritis of first metatarsophalangeal joint secondary to inflammatory arthritis,700336004,Condition
+45765977,80180,Secondary osteoarthritis of midfoot,703050003,Condition
+45765978,80180,Osteoarthritis of midfoot,703051004,Condition
+45765979,80180,Primary osteoarthritis of midfoot,703052006,Condition
+45765980,80180,Osteoarthritis of midfoot secondary to trauma,703053001,Condition
+45765981,80180,Osteoarthritis of midfoot secondary to inflammatory arthritis,703054007,Condition
+45766463,80180,Asymptomatic calcium pyrophosphate deposition disease,703627005,Condition
+46273178,80180,Osteoarthritis of hip due to dysplasia,712504007,Condition
+4323570,80180,Secondary localized osteoarthrosis of multiple sites,7126001,Condition
+37018720,80180,Osteoarthritis of facet joint of thoracic spine,713482002,Condition
+37017534,80180,Osteoarthritis of lumbar spinal facet joint,713826008,Condition
+37017569,80180,Congenital calcium pyrophosphate dihydrate crystal deposition disease,713869000,Condition
+37017608,80180,Lumbosacral spondylosis with root compression,713911007,Condition
+36713669,80180,Hereditary arterial and articular multiple calcification syndrome,718602007,Condition
+36717146,80180,Dermatoosteolysis Kirghizian type,721090002,Condition
+4216873,80180,Relapsing polychondritis,72275000,Condition
+37110373,80180,Intervertebral disc degeneration of cervical spine without prolapsed disc,724604003,Condition
+37110374,80180,Ossification of spinal ligament,724605002,Condition
+37111597,80180,Familial chondromalacia of patella,726628003,Condition
+42539033,80180,Oligoosteoarthritis,735598004,Condition
+42539550,80180,Rheumatoid arthritis with erosion of joint,735599007,Condition
+42536660,80180,Prolapse of cervical intervertebral disc with degeneration,735604001,Condition
+42539491,80180,Degeneration of cervical intervertebral disc and osteophyte of cervical vertebra,735605000,Condition
+42536661,80180,Degeneration of thoracic intervertebral disc without prolapse,735606004,Condition
+42536662,80180,Prolapse of thoracic intervertebral disc with degeneration,735607008,Condition
+42536663,80180,Degeneration of thoracic intervertebral disc and osteophyte,735608003,Condition
+42536664,80180,Degeneration of lumbar intervertebral disc without prolapse,735609006,Condition
+42539035,80180,Prolapse of lumbar intervertebral disc with degeneration,735610001,Condition
+42536665,80180,Degeneration of lumbar intervertebral disc and osteophyte of lumbar vertebra,735611002,Condition
+42536890,80180,Wear of cartilage of joint caused by hemiarthroplasty,735914007,Condition
+42537576,80180,Osteoarthritis of joint of left ankle and/or foot,737057000,Condition
+4250767,80180,Chronic tophaceous gout,73877009,Condition
+4327181,80180,Interphalangeal osteoarthritis,74885006,Condition
+73287,80180,Crystal arthropathy of ankle AND/OR foot,75468006,Condition
+80816,80180,Degeneration of intervertebral disc,77547008,Condition
+434123,80180,Primary localized osteoarthrosis of pelvic region,77994009,Condition
+37203942,80180,Aneurysm osteoarthritis syndrome,785808002,Condition
+4302891,80180,Stickler syndrome,78675000,Condition
+37311900,80180,Osteoarthritis of hip due to and following trauma,789000004,Condition
+37311899,80180,Osteoarthritis of knee due to and following trauma,789001000,Condition
+37311898,80180,Osteoarthritis of wrist and hand due to and following trauma,789002007,Condition
+4219481,80180,Degenerative joint disease of ankle AND/OR foot,82300000,Condition
+44808844,80180,Osteoarthritis of sternoclavicular joint,850791000000102,Condition
+4313022,80180,Chondrocalcinosis due to calcium hydroxyapatite crystals,86787000,Condition
+4227449,80180,Spondylosis,8847002,Condition
+4236035,80180,Ossification of posterior longitudinal ligament,90448008,Condition
+72990,80180,Localized osteoarthrosis uncertain if primary OR secondary,90860001,Condition
+434449,80180,Degeneration of thoracolumbar intervertebral disc,91240008,Condition
